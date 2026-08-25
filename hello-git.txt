@@ -6,3 +6,4 @@ log-demo: line 3
 stash-demo: uncommited change
 stash-demo: uncommited 2nd change
 reset-demo: C1
+reset-demo: C2
