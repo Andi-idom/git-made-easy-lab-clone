@@ -5,4 +5,3 @@ log-demo: line 2
 log-demo: line 3
 stash-demo: uncommited change
 stash-demo: uncommited 2nd change
-revert-demo: bad idea
